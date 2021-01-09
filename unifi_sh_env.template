@@ -1,0 +1,6 @@
+# copy this to unifi_sh_env and set your creds
+username="your_local_username"
+password="your_local_password"
+baseurl="https://unifi.yourdomain.com"          # for UnifiOS
+#baseurl="https://unifi.yourdomain.com:8443"    # for pre-UnifiOS
+site="your_site"
